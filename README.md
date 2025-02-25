@@ -27,15 +27,8 @@ Welcome to my GitHub! I'm a passionate software developer with a love for learni
 
 ## 📂 Projects
 
-Here are a few projects I've been working on recently:
-
-- [**Awesome Project**](https://github.com/tyrexbacot/awesome-project) - A project that solves problem X using technology Y.
-- [**Cool App**](https://github.com/tyrexbacot/cool-app) - An app that makes life easier by doing Z.
+Nothing 🗿
 
 ## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyrexbacot/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/tyrexbacot)
-[![Website](https://img.shields.io/badge/-Website-333333?style=flat&logo=google-chrome&logoColor=white)](https://www.tyrexbacot.com)
 
 Thanks for stopping by! Feel free to check out my repositories and get in touch if you want to collaborate on something cool.
